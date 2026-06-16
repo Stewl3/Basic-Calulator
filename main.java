@@ -7,7 +7,7 @@ class Main {
         int firstNumber = scanner.nextInt();
         String operand = scanner.nextLine();
         int secondNumber = scanner.nextInt();
-
+        
     }
 
 }
